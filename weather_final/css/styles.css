@@ -70,7 +70,7 @@ div#wrapper {
 
 /* HEADER  */
 header {
-  background-color: #1a9835;
+  background-color: #1ad1ff;
   padding: .5rem 0 .5rem 2%; }
 
 header h1, header h2 {
@@ -167,7 +167,7 @@ footer {
   width: 100%;
   text-align: center;
   padding: 1em;
-  background-color: #1a9835;
+  background-color: #585858;
   color: #fff;
   font-size: .9rem; }
 
